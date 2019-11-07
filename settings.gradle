@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ExampleIntentFilter_11_7_19'
